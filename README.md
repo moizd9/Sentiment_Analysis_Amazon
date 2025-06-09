@@ -1,4 +1,4 @@
-# Sentiment Analysis Report on Amazon Product Reviews
+# Sentiment Analysis Report on Amazon using NLP
 
 ## Objective
 
